@@ -64,4 +64,14 @@ Sanjai Balaji
 MSc Business Analytics
 Queen's University Belfast
 
-![Executive Dashboard]<img width="1163" height="652" alt="Executive-Dashboard png" src="https://github.com/user-attachments/assets/54d72797-e7a7-4232-890b-7c3bcec674d1" />
+Executive Dashboard 
+<img width="1163" height="652" alt="Executive-Dashboard png" src="https://github.com/user-attachments/assets/54d72797-e7a7-4232-890b-7c3bcec674d1" />
+Product Perfomance 
+<img width="1160" height="627" alt="Product-Performance png" src="https://github.com/user-attachments/assets/4a7e4625-0ff4-422e-85b3-d95ce7227add" />
+Geographic Intelligence
+<img width="1160" height="656" alt="Geographic-Intelligence png" src="https://github.com/user-attachments/assets/ac1181a2-20ed-42bb-a86a-743bf9a519c4" />
+Profitability Analysis
+<img width="935" height="655" alt="Profitability-Analysis png" src="https://github.com/user-attachments/assets/62e5d453-2a0f-4fe6-a124-66458b88d72e" />
+Business Insights and Recommendations 
+<img width="1158" height="527" alt="Business-Insights png" src="https://github.com/user-attachments/assets/84eb2de4-7eb1-4b83-a3ed-5af32a945778" />
+
