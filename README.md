@@ -63,3 +63,5 @@ Retail managers require visibility into sales drivers, profit performance and di
 Sanjai Balaji
 MSc Business Analytics
 Queen's University Belfast
+
+![Executive Dashboard]<img width="1163" height="652" alt="Executive-Dashboard png" src="https://github.com/user-attachments/assets/54d72797-e7a7-4232-890b-7c3bcec674d1" />
